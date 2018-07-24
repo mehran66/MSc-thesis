@@ -1,0 +1,3 @@
+<?xml version="1.0"?>
+<!--<!DOCTYPE metadata SYSTEM "http://www.esri.com/metadata/esriprof80.dtd">-->
+<metadata xml:lang="en"><Esri><MetaID>{AC556B60-B301-4458-93B7-71BA3CA5C3F8}</MetaID><CreaDate>20111014</CreaDate><CreaTime>21311400</CreaTime><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="C:\Program Files (x86)\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\Append" Date="20111014" Time="213114">Append line_FeatureVerticesToPoints1;point Append TEST # # Append</Process><Process ToolSource="C:\Program Files (x86)\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\Append" Date="20111014" Time="215403">Append point;line_FeatureVerticesToPoints2 Append TEST # # Append</Process></lineage></DataProperties></Esri></metadata>
