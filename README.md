@@ -1,7 +1,7 @@
 # MSc Thesis
 # A Voronoi-base Algorithm for Medial Axis Extraction (Case Study: Watershed Delineation from River Networks)
 
-<i>A thesis submitted to the Graduate Studies Office in partial fulfillment of the requirement for the degree of Master of Science in Surveying Engineering – Geospatial Information System (GIS) <br>
+<i>A thesis submitted to the Graduate Studies Office in partial fulfillment of the requirement for the degree of Master of Science in Surveying Engineering – Geospatial Information System (GIS) </i> <br>
 
 The Medial Axis (MA) that is unique for a given shape and is topologically equivalent to its shape is considered as the locus of the centers of circles that are tangent to shape boundary in two or more points, where all such circles are contained in shape. The MA is used in a variety of applications especially in image analysis and also it can be used in Geospatial Information System (GIS) for applications such as watershed delineation.<br>
 
