@@ -17,5 +17,4 @@ For evaluating the practical usability of the proposed algorithm in GIS, this al
 ![capture](https://user-images.githubusercontent.com/10367311/43163219-b546956e-8f4a-11e8-8fd8-575c597911c4.PNG)
 ![2](https://user-images.githubusercontent.com/10367311/43163220-b6835e58-8f4a-11e8-8595-15d4e2af7430.PNG)
 
-[geoadvances2012_MehranGhandehari.pdf](https://github.com/mehran66/MSc-Thesis/files/2225219/geoadvances2012_MehranGhandehari.pdf)
 
